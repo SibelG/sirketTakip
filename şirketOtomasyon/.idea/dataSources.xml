@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="veriler" uuid="cd798aac-cc15-4f63-b8a8-0cd6ba0d08ad">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Acer\Desktop\marketOtomasyon\veriler.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="gunlukVeriler" uuid="2dc5d116-5227-443c-8a0b-ef109f1950b1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Acer\Desktop\marketOtomasyon\gunlukVeriler.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
